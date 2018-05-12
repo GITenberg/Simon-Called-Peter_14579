@@ -28,6 +28,8 @@ description: "Simon Called Peter is a novel by Robert Keable (1887–1927)  whic
   \ didn't make any sense to me.\"\nThe novel was followed by a sequel, Recompense,\
   \ published in 1924, which was made into a 1925 motion picture with the same title.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14579#Simon-Called-Peter
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-01-03'
 gutenberg_type: Text
