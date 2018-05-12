@@ -1,0 +1,47 @@
+_repo: Simon-Called-Peter_14579
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keable, Robert
+    birthdate: 1887
+    deathdate: 1927
+    gutenberg_agent_id: '5579'
+    url: http://www.gutenberg.org/2009/agents/5579
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Keable
+description: "Simon Called Peter is a novel by Robert Keable (1887–1927)  which was\
+  \ a best-seller in 1921. The title is a reference to Simon Peter the apostle and\
+  \ first Pope of the Catholic Church.\nIn 1921 it was met with astonishing success,\
+  \ and its runaway popularity won Keable a level of celebrity. The book reportedly\
+  \ sold over 600,000 copies during the 1920s, reaching a 66th edition by 1922. A\
+  \ largely autobiographical work, Simon Called Peter is the tale of a priest, Peter\
+  \ Graham, who has an affair in wartime France with a nurse named Julie. The title\
+  \ character almost abandons his faith for love, but experiences a direct revelation\
+  \ of Christ while watching a Catholic mass and is given up by his lover, who sees\
+  \ his sincerity. The book was controversial at its introduction due to its sexual\
+  \ and religious content;\nIt was made into a play in 1924 by Jules Eckert Goodman\
+  \ and Edward Knoblock; which had a short run on Broadway.\nThis book is referred\
+  \ to in The Great Gatsby. Nick Carraway, the narrator, reads a chapter and claims\
+  \ that \"either it was terrible stuff or the whisky distorted things, because it\
+  \ didn't make any sense to me.\"\nThe novel was followed by a sequel, Recompense,\
+  \ published in 1924, which was made into a 1925 motion picture with the same title.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14579'
+  wikidata: Q7518400
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PR'
+title: Simon Called Peter
+url: http://www.gutenberg.org/ebooks/14579
+wikipedia:
+- https://en.wikipedia.org/wiki/Simon_Called_Peter
